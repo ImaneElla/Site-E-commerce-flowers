@@ -9,6 +9,6 @@
     { "src": "screenshot/*", "use": "@vercel/static" }
   ],
   "routes": [
-    { "src": "/(.*)", "dest": "/home.php" }
+    { "src": "/(.*)", "dest": "/login.php" }
   ]
 }
