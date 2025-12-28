@@ -25,15 +25,15 @@ The project includes an admin panel that allows the administrator to:
 
 ### 🛠 Admin Panel
 
-![Admin](screenshots/admin.png)
+![Admin](screenshot/Admin.png)
 
 ### 🔐 Login Page
 
-![Login](screenshots/login.png)
+![Login](screenshot/login.png)
 
 ### 🔐 Register Page
 
-![Register](screenshots/register.png)
+![Register](screenshot/Register.png)
 
 
 
