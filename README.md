@@ -37,11 +37,11 @@ The project includes an admin panel that allows the administrator to:
 
 ----
 
-### 🔐 Data base Page
+### 🔐 Data base
 
 ![xampp](screenshot/shop_db.png)
 
-### 🔐 Users Page
+### 🔐 Users
 
 ![users](screenshot/users.png)
 
