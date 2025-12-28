@@ -20,5 +20,21 @@ The project includes an admin panel that allows the administrator to:
 
 ![Home Page](screenshot/home.png)
 
+![Home Page](screenshot/home2.png)
+
+
+### 🛠 Admin Panel
+
+![Admin](screenshots/admin.png)
+
+### 🔐 Login Page
+
+![Login](screenshots/login.png)
+
+### 🔐 Register Page
+
+![Register](screenshots/register.png)
+
+
 
 
