@@ -35,6 +35,21 @@ The project includes an admin panel that allows the administrator to:
 
 ![Register](screenshot/Register.png)
 
+----
+
+### 🔐 Data base Page
+
+![xampp](screenshot/shop_db.png)
+
+### 🔐 Users Page
+
+![users](screenshot/users.png)
+
+
+
+
+
+
 
 
 
